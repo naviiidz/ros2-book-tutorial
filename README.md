@@ -1,7 +1,8 @@
 # ROS 2 Python Package - `ros2-book-tutorials`
 
 ## Overview
-This repository contains sample codes for ROS 2 as explained in the book, written in Farsi and published by Dibagaran Publications in August 2024.
+This repository contains sample codes for ROS 2 as explained in the book, written in Farsi and published by Dibagaran Publications in August 2024. You can find more information about the book [here]([https://link-to-the-book.com](https://www.dibagaranpakhsh.ir/index.php?route=product/product&product_id=2122)).
+
 
 ## Packages
 The repository includes the following three main packages created in the book:
