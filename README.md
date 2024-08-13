@@ -1,4 +1,4 @@
-# ROS 2 Python Package - `your_package_name`
+# ROS 2 Python Package - `ros2-book-tutorials`
 
 ## Overview
 This repo presents sample codes of ROS2 explained in the book. The book is written in Farsi language and published by Dibagaran publication in August 2024.
