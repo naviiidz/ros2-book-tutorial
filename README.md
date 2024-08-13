@@ -23,6 +23,7 @@ Clone the repository into your ROS 2 workspace (e.g., `~/ros2_ws/src`):
 ```bash
 cd ~/ros2_ws/src
 git clone https://github.com/naviiidz/ros2-book-tutorial.git
+```
 
 ## Future Updates
 More useful information, including cheatsheets and additional resources, will be added to this repository over time. Stay tuned for updates!
