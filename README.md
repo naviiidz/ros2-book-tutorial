@@ -11,7 +11,7 @@ Packages created in the book are included in _src_codes_in_book_. There are 3 ma
 
 ## Requirements
 Packages have been developed and tested with the following dependencies:
-- **ROS 2**: This is the main package. Almost all nodes are in _py_package_ (Chapters 3, 4, 5, 7, 8).
+- **ROS 2**: Iron Irwini
 - **Python**: 3.10.12
 - Other dependencies: rclpy, std_msgs, example_interfaces, sys, action_tutorials_interfaces, 
 
